@@ -4,8 +4,8 @@ from collections import defaultdict
 # ========== 全局变量 ==========
 THRESHOLD = 0.4      # symbolic_state 阈值
 MIN_COUNT = 35       # 出现次数最小阈值
-INPUT_FILE = "../data/ESConv_with_symbolic_state.json"
-OUTPUT_FILE = "../data/ruleset_driven_by_data.json"
+INPUT_FILE = "../data/ESConv/ESConv_with_symbolic_state.json"
+OUTPUT_FILE = "../data/ruleset.json"
 
 def extract_rules(input_file=INPUT_FILE, output_file=OUTPUT_FILE,
                   threshold=THRESHOLD, min_count=MIN_COUNT):

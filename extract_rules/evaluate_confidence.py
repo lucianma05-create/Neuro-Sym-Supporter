@@ -45,7 +45,7 @@ def call_llm(prompt, api_key, model):
         "temperature": 0
     }
 
-    resp = requests.post("https://happyapi.org/v1/chat/completions", headers=headers, json=payload, timeout=30)
+    resp = requests.post("", headers=headers, json=payload, timeout=30)
     resp.raise_for_status()
     return resp.json()["choices"][0]["message"]["content"]
 
@@ -149,8 +149,8 @@ def score_dialogues(input_path, output_path, api_key, model, max_retry=3):
 if __name__ == "__main__":
     score_dialogues(
         input_path="../data/ESConv/ESConv_merged.json",
-        output_path="../data/rules/ESConv_with_symbolic_state.json",
-        api_key="sk-xxxx", # 请替换为有效的 API KEY
+        output_path="../data/ESConv/ESConv_with_symbolic_state.json",
+        api_key="sk-xxxx", 
         model="gpt-4o-mini",
         max_retry=3
     )
