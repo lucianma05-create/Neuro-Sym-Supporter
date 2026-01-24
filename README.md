@@ -141,11 +141,8 @@ We adopt **LLaMA-Factory** for supervised fine-tuning of the dialogue model:
 ```bash
 cd LLaMA-Factory
 python src/train.py
-<<<<<<< HEAD
 python generate_text.py
 python evaluate_result.py
-=======
->>>>>>> 57aa4abd265da6de89662b277c3ff48a95e07eb1
 ```
 
 Please refer to the official LLaMA-Factory documentation for dataset and configuration details.
@@ -162,11 +159,7 @@ Please refer to the official LLaMA-Factory documentation for dataset and configu
 
 ## 📄 Citation
 
-<<<<<<< HEAD
 If you find this work useful, please cite our paper.
-=======
-If you find this work useful, please cite our WWW 2026 paper.
->>>>>>> 57aa4abd265da6de89662b277c3ff48a95e07eb1
 
 ```bibtex
 
