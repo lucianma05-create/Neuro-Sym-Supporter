@@ -46,7 +46,6 @@ Neuro-Sym_Supporter/
 ├── LLaMA-Factory/
 │   ├── src/
 │   │   └──train.py
-│   │
 │   ├── generate_text.py
 │   └── evaluate_result.py
 │
