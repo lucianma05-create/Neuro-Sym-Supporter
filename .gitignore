@@ -1,0 +1,11 @@
+cat << EOF > .gitignore
+__pycache__/
+*.pyc
+*.pth
+.env
+.DS_Store
+.idea/
+.vscode/
+data/*/cache/
+Neuro-Sym_Supporter/data/ESConv/ESConv_with_symbolic_state.json
+EOF

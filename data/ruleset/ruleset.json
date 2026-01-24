@@ -1,0 +1,1046 @@
+{
+  "Question": [
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 38
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 105
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 304
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_insight"
+      ],
+      "count": 46
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 154
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 251
+    },
+    {
+      "symbolic_state": [
+        "no_insight"
+      ],
+      "count": 58
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action"
+      ],
+      "count": 42
+    },
+    {
+      "symbolic_state": [
+        "unclear_emotion"
+      ],
+      "count": 39
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 243
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 89
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 60
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 202
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 209
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 47
+    },
+    {
+      "symbolic_state": [
+        "explored_issue"
+      ],
+      "count": 48
+    },
+    {
+      "symbolic_state": [
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 59
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 76
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 36
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 50
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 157
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 95
+    },
+    {
+      "symbolic_state": [
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 36
+    }
+  ],
+  "Affirmation and Reassurance": [
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 274
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 439
+    },
+    {
+      "symbolic_state": [
+        "explored_issue"
+      ],
+      "count": 95
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 336
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 42
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 106
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 80
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 53
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 117
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 215
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 72
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_insight"
+      ],
+      "count": 59
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 64
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 184
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 37
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 68
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action"
+      ],
+      "count": 54
+    }
+  ],
+  "Others": [
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 322
+    },
+    {
+      "symbolic_state": [
+        "explored_issue"
+      ],
+      "count": 330
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 95
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 77
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 347
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 333
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action"
+      ],
+      "count": 142
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 79
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 54
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "unclear_emotion"
+      ],
+      "count": 50
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 47
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_insight"
+      ],
+      "count": 133
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 119
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 35
+    },
+    {
+      "symbolic_state": [
+        "no_insight"
+      ],
+      "count": 47
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 73
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 55
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "unclear_emotion"
+      ],
+      "count": 44
+    },
+    {
+      "symbolic_state": [
+        "unclear_emotion"
+      ],
+      "count": 45
+    }
+  ],
+  "Information": [
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 128
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 48
+    },
+    {
+      "symbolic_state": [
+        "explored_issue"
+      ],
+      "count": 39
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 73
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 84
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 79
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 245
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 51
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 61
+    }
+  ],
+  "Self-disclosure": [
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 280
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 160
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 119
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 51
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 92
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 77
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 56
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_insight"
+      ],
+      "count": 43
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 173
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 109
+    }
+  ],
+  "Providing Suggestions": [
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 643
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 330
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 188
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 121
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 261
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 38
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 38
+    },
+    {
+      "symbolic_state": [
+        "explored_issue"
+      ],
+      "count": 63
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action"
+      ],
+      "count": 52
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_insight"
+      ],
+      "count": 35
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 225
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 58
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 136
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_insight"
+      ],
+      "count": 66
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 46
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 96
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 59
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 74
+    }
+  ],
+  "Restatement or Paraphrasing": [
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 111
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 81
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 83
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 122
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 71
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 48
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 82
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 50
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 45
+    }
+  ],
+  "Reflection of feelings": [
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 159
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 46
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "need_trauma_processing",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 181
+    },
+    {
+      "symbolic_state": [
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 70
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 207
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "no_effective_action",
+        "no_insight"
+      ],
+      "count": 84
+    },
+    {
+      "symbolic_state": [
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "unclear_emotion"
+      ],
+      "count": 61
+    },
+    {
+      "symbolic_state": [
+        "explored_issue"
+      ],
+      "count": 37
+    },
+    {
+      "symbolic_state": [
+        "explored_issue",
+        "need_information",
+        "no_effective_action",
+        "no_insight",
+        "panic",
+        "unclear_emotion"
+      ],
+      "count": 113
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "triple_input": {
+    "file_name": "ESConv_SFT.json",
+    "load_from": "file",
+    "formatting": "sharegpt",
+    "format": "chatml",
+    "prompt": null,
+    "query": null,
+    "response": null,
+    "messages": "conversations",
+    "role_tag": "from",
+    "content_tag": "value",
+    "user_tag": "human",
+    "assistant_tag": "gpt"
+  }
+}
