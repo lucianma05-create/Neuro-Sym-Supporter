@@ -1,4 +1,11 @@
-# Neuro-Sym Supporter
+<div align="center">
+
+# 😄 Neuro-Sym Supporter
+
+[![Conference](https://img.shields.io/badge/The%20Web%20Conf-2026-8A2BE2?style=for-the-badge&logo=ieee&logoColor=white)](https://www2026.thewebconf.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-f1c40f.svg?style=for-the-badge&logo=mit&logoColor=white)](https://opensource.org/licenses/MIT)
+
+</div>
 
 This repository contains the official implementation of the WWW 2026 submission **#rfp1651**:
 
