@@ -9,7 +9,7 @@
 
 This repository contains the official implementation of the WWW 2026 submission **#rfp1651**:
 
-> **Neuro-Sym Supporter: A Thoughtful Emotion Support Agent Integrating Neural and Symbolic Policy Learning**
+> [**Neuro-Sym Supporter: A Thoughtful Emotion Support Agent Integrating Neural and Symbolic Policy Learning**](https://dl.acm.org/doi/abs/10.1145/3774904.3792335)
 
 The project proposes a hybrid agent that integrates **neural strategy prediction** and **symbolic rule-based reasoning** for empathetic dialogue strategy selection.
 
@@ -169,6 +169,12 @@ Please refer to the official LLaMA-Factory documentation for dataset and configu
 If you find this work useful, please cite our paper.
 
 ```bibtex
-
+@inproceedings{ma2026neuro,
+  title={Neuro-Sym Supporter: A Thoughtful Emotion Support Agent Integrating Neural and Symbolic Policy Learning},
+  author={Ma, Minghui and Guo, Bin and Chen, Mengqi and Liu, Jingqi and Ding, Yasan and Liu, Yan and Wang, Han},
+  booktitle={Proceedings of the ACM Web Conference 2026},
+  pages={3823--3834},
+  year={2026}
+}
 ```
 
